@@ -18,6 +18,7 @@ This project is created using Bhoj Reddy Engineering College as a reference and 
 - CSS
 
 ## 📁 Project Structure
+```text
 Campus-Navigator
 │
 ├── index.html
@@ -28,6 +29,7 @@ Campus-Navigator
 │
 └── css
 └── style.css
+```
 
 
 ## 🎯 About the Project
